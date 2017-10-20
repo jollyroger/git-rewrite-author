@@ -1,0 +1,8 @@
+# .mailmap example. Put it in your git repo and edit according to your needs
+# before running the script. The following formats are supported:
+
+Proper Name <proper@email.xx> Commit Name <commit@email.xx>
+Proper Name <proper@email.xx> <commit@email.xx>
+Proper Name <commit@email.xx>
+
+# Please use only one space between each field
